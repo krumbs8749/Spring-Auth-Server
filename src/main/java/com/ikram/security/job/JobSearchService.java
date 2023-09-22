@@ -9,7 +9,10 @@ public class JobSearchService {
 
     public JobSearchResponse search (JobSearchRequest request){
         return JobSearchResponse.builder()
-                .name(request.getQuery())
+                .title(request.getQuery())
+                .type("Full-time")
+                .desc("Part-time")
+                .location("Aachen")
                 .salary(1000.50)
                 .company("microsoft")
                 .build();

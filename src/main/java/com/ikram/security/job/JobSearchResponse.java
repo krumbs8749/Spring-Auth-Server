@@ -12,9 +12,15 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class JobSearchResponse {
     @JsonProperty
-    private String name;
+    private String title;
+    @JsonProperty
+    private String location;
+    @JsonProperty
+    private String desc;
     @JsonProperty
     private String company;
     @JsonProperty
     private double salary;
+    @JsonProperty
+    private String type;
 }
