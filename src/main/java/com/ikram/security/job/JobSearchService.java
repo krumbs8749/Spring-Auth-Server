@@ -1,20 +1,18 @@
 package com.ikram.security.job;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
+import org.apache.tomcat.util.json.JSONParser;
 import org.springframework.stereotype.Service;
+
 
 @Service
 @RequiredArgsConstructor
 public class JobSearchService {
-
+    private final DemoJobs demoJob = DemoJobs.getInstance();
     public JobSearchResponse search (JobSearchRequest request){
         return JobSearchResponse.builder()
-                .title(request.getQuery())
-                .type("Full-time")
-                .desc("Part-time")
-                .location("Aachen")
-                .salary(1000.50)
-                .company("microsoft")
+                .jobs(demoJob.getDemoJobs())
                 .build();
     }
 }

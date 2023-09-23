@@ -6,21 +6,13 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.List;
+
 @Data
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
 public class JobSearchResponse {
     @JsonProperty
-    private String title;
-    @JsonProperty
-    private String location;
-    @JsonProperty
-    private String desc;
-    @JsonProperty
-    private String company;
-    @JsonProperty
-    private double salary;
-    @JsonProperty
-    private String type;
+    private Job[] jobs;
 }

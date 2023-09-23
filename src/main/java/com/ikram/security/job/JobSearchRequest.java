@@ -11,5 +11,5 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class JobSearchRequest {
     private String query;
-    private int numPage;
+    private int num_pages;
 }
