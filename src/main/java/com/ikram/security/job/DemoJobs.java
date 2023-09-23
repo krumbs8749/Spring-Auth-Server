@@ -24,7 +24,11 @@ public class DemoJobs {
                     "      \"Strong programming skills in Python\",\n" +
                     "      \"Experience with deep learning frameworks (e.g., TensorFlow, PyTorch)\"\n" +
                     "    ],\n" +
-                    "    \"responsibilities\": \"Conduct research in AI/ML, develop algorithms, and collaborate on projects\",\n" +
+                    "    \"responsibilities\": [\n" +
+                    "      \"Conduct research in AI/ML algorithms\",\n" +
+                    "      \"Develop and implement deep learning models using TensorFlow and PyTorch\",\n" +
+                    "      \"Collaborate with cross-functional teams on AI projects\"\n" +
+                    "    ],\n" +
                     "    \"description\": \"Join our research team to drive innovation in AI and ML technology.\"\n" +
                     "  },\n" +
                     "  {\n" +
@@ -38,7 +42,11 @@ public class DemoJobs {
                     "      \"ISTQB certification\",\n" +
                     "      \"Experience with test automation tools (e.g., Selenium)\"\n" +
                     "    ],\n" +
-                    "    \"responsibilities\": \"Create test plans, execute test cases, and report defects\",\n" +
+                    "    \"responsibilities\": [\n" +
+                    "      \"Create test plans and test cases\",\n" +
+                    "      \"Execute manual and automated tests using Selenium\",\n" +
+                    "      \"Report and track software defects\"\n" +
+                    "    ],\n" +
                     "    \"description\": \"Ensure the quality of our software products through rigorous testing.\"\n" +
                     "  },\n" +
                     "  {\n" +
@@ -52,7 +60,11 @@ public class DemoJobs {
                     "      \"Proficiency in Solidity\",\n" +
                     "      \"Knowledge of Ethereum smart contract development\"\n" +
                     "    ],\n" +
-                    "    \"responsibilities\": \"Design and implement blockchain solutions, smart contracts\",\n" +
+                    "    \"responsibilities\": [\n" +
+                    "      \"Design and implement blockchain solutions\",\n" +
+                    "      \"Develop and deploy Ethereum smart contracts\",\n" +
+                    "      \"Integrate blockchain technology into SAP solutions\"\n" +
+                    "    ],\n" +
                     "    \"description\": \"Work on cutting-edge blockchain projects with our development team.\"\n" +
                     "  },\n" +
                     "  {\n" +
@@ -66,7 +78,11 @@ public class DemoJobs {
                     "      \"Experience with CI/CD pipelines\",\n" +
                     "      \"Scripting skills in Python or Shell\"\n" +
                     "    ],\n" +
-                    "    \"responsibilities\": \"Implement CI/CD pipelines, manage cloud infrastructure\",\n" +
+                    "    \"responsibilities\": [\n" +
+                    "      \"Implement and manage AWS cloud infrastructure\",\n" +
+                    "      \"Set up and maintain CI/CD pipelines\",\n" +
+                    "      \"Automate infrastructure and deployment tasks\"\n" +
+                    "    ],\n" +
                     "    \"description\": \"Join our team to build and maintain scalable cloud solutions.\"\n" +
                     "  },\n" +
                     "  {\n" +
@@ -80,7 +96,11 @@ public class DemoJobs {
                     "      \"Experience with React or Angular\",\n" +
                     "      \"UI/UX design skills\"\n" +
                     "    ],\n" +
-                    "    \"responsibilities\": \"Develop user-friendly web interfaces, collaborate with UX designers\",\n" +
+                    "    \"responsibilities\": [\n" +
+                    "      \"Develop user-friendly web interfaces\",\n" +
+                    "      \"Collaborate with UX designers on design and user experience\",\n" +
+                    "      \"Optimize frontend performance and responsiveness\"\n" +
+                    "    ],\n" +
                     "    \"description\": \"Create visually stunning and responsive web applications for our customers.\"\n" +
                     "  },\n" +
                     "  {\n" +
@@ -94,7 +114,11 @@ public class DemoJobs {
                     "      \"Proficiency in SQL and data visualization tools (e.g., Tableau)\",\n" +
                     "      \"Statistical analysis skills\"\n" +
                     "    ],\n" +
-                    "    \"responsibilities\": \"Analyze data, generate insights, and create data visualizations\",\n" +
+                    "    \"responsibilities\": [\n" +
+                    "      \"Analyze data and generate insights\",\n" +
+                    "      \"Create data visualizations and reports\",\n" +
+                    "      \"Collaborate with data engineers on data pipelines\"\n" +
+                    "    ],\n" +
                     "    \"description\": \"Help us make data-driven decisions in the automotive industry.\"\n" +
                     "  },\n" +
                     "  {\n" +
@@ -108,7 +132,11 @@ public class DemoJobs {
                     "      \"Proficiency in C/C++\",\n" +
                     "      \"Knowledge of real-time operating systems\"\n" +
                     "    ],\n" +
-                    "    \"responsibilities\": \"Design and develop embedded software for automotive applications\",\n" +
+                    "    \"responsibilities\": [\n" +
+                    "      \"Design and develop embedded software for automotive applications\",\n" +
+                    "      \"Optimize software for performance and resource utilization\",\n" +
+                    "      \"Collaborate with hardware engineers on system integration\"\n" +
+                    "    ],\n" +
                     "    \"description\": \"Work on cutting-edge automotive technologies with our team.\"\n" +
                     "  },\n" +
                     "  {\n" +
@@ -122,7 +150,11 @@ public class DemoJobs {
                     "      \"Experience with backend frameworks (e.g., Express)\",\n" +
                     "      \"Database skills (e.g., MongoDB)\"\n" +
                     "    ],\n" +
-                    "    \"responsibilities\": \"Develop both frontend and backend components of web applications\",\n" +
+                    "    \"responsibilities\": [\n" +
+                    "      \"Develop frontend and backend components of web applications\",\n" +
+                    "      \"Collaborate with product managers and designers\",\n" +
+                    "      \"Implement RESTful APIs and database interactions\"\n" +
+                    "    ],\n" +
                     "    \"description\": \"Join our team to create the future of food delivery technology.\"\n" +
                     "  },\n" +
                     "  {\n" +
@@ -136,7 +168,11 @@ public class DemoJobs {
                     "      \"Experience with user research methods\",\n" +
                     "      \"UX/UI design knowledge\"\n" +
                     "    ],\n" +
-                    "    \"responsibilities\": \"Plan and conduct user research, analyze user behavior\",\n" +
+                    "    \"responsibilities\": [\n" +
+                    "      \"Plan and conduct user research studies\",\n" +
+                    "      \"Analyze user behavior and provide insights\",\n" +
+                    "      \"Collaborate with designers on improving user interfaces\"\n" +
+                    "    ],\n" +
                     "    \"description\": \"Shape the user experience of our products through research and insights.\"\n" +
                     "  },\n" +
                     "  {\n" +
@@ -150,7 +186,11 @@ public class DemoJobs {
                     "      \"Proficiency in programming languages (e.g., Java, Scala)\",\n" +
                     "      \"Data modeling and ETL skills\"\n" +
                     "    ],\n" +
-                    "    \"responsibilities\": \"Design and build scalable data processing pipelines\",\n" +
+                    "    \"responsibilities\": [\n" +
+                    "      \"Design and build scalable data processing pipelines\",\n" +
+                    "      \"Implement data transformations and ETL processes\",\n" +
+                    "      \"Optimize data storage and retrieval\"\n" +
+                    "    ],\n" +
                     "    \"description\": \"Work with large datasets to drive data-driven decisions.\"\n" +
                     "  },\n" +
                     "  {\n" +
@@ -164,7 +204,11 @@ public class DemoJobs {
                     "      \"Certifications (e.g., CISSP, CompTIA Security+)\",\n" +
                     "      \"Experience with security tools (e.g., IDS/IPS)\"\n" +
                     "    ],\n" +
-                    "    \"responsibilities\": \"Monitor network security, investigate incidents, and implement security measures\",\n" +
+                    "    \"responsibilities\": [\n" +
+                    "      \"Monitor network security for threats and vulnerabilities\",\n" +
+                    "      \"Investigate security incidents and breaches\",\n" +
+                    "      \"Implement security measures and policies\"\n" +
+                    "    ],\n" +
                     "    \"description\": \"Protect our organization from cyber threats and vulnerabilities.\"\n" +
                     "  },\n" +
                     "  {\n" +
@@ -178,7 +222,11 @@ public class DemoJobs {
                     "      \"Familiarity with iOS development tools (Xcode)\",\n" +
                     "      \"Knowledge of design patterns\"\n" +
                     "    ],\n" +
-                    "    \"responsibilities\": \"Design and develop iOS applications for automotive use\",\n" +
+                    "    \"responsibilities\": [\n" +
+                    "      \"Design and develop iOS applications for automotive use\",\n" +
+                    "      \"Implement user interfaces and app functionality\",\n" +
+                    "      \"Collaborate with cross-functional teams on app development\"\n" +
+                    "    ],\n" +
                     "    \"description\": \"Create innovative and user-friendly iOS apps for our vehicles.\"\n" +
                     "  },\n" +
                     "  {\n" +
@@ -192,7 +240,11 @@ public class DemoJobs {
                     "      \"AWS or Azure certification\",\n" +
                     "      \"Experience with microservices architecture\"\n" +
                     "    ],\n" +
-                    "    \"responsibilities\": \"Design and implement cloud solutions for enterprise applications\",\n" +
+                    "    \"responsibilities\": [\n" +
+                    "      \"Design and implement cloud solutions for enterprise applications\",\n" +
+                    "      \"Define cloud architecture best practices\",\n" +
+                    "      \"Collaborate with development teams on cloud deployments\"\n" +
+                    "    ],\n" +
                     "    \"description\": \"Architect cloud solutions for the future of mobility and automotive technology.\"\n" +
                     "  },\n" +
                     "  {\n" +
@@ -206,7 +258,11 @@ public class DemoJobs {
                     "      \"Experience with web frameworks (e.g., Django, Flask)\",\n" +
                     "      \"Database skills (e.g., PostgreSQL, MySQL)\"\n" +
                     "    ],\n" +
-                    "    \"responsibilities\": \"Develop and maintain Python-based web applications\",\n" +
+                    "    \"responsibilities\": [\n" +
+                    "      \"Develop and maintain Python-based web applications\",\n" +
+                    "      \"Design and implement RESTful APIs\",\n" +
+                    "      \"Collaborate with frontend developers on web projects\"\n" +
+                    "    ],\n" +
                     "    \"description\": \"Build scalable and efficient Python web applications for e-commerce.\"\n" +
                     "  },\n" +
                     "  {\n" +
@@ -220,7 +276,11 @@ public class DemoJobs {
                     "      \"AI Ethics research experience\",\n" +
                     "      \"Strong analytical and critical thinking skills\"\n" +
                     "    ],\n" +
-                    "    \"responsibilities\": \"Conduct research on ethical AI, provide guidance on AI projects\",\n" +
+                    "    \"responsibilities\": [\n" +
+                    "      \"Conduct research on ethical AI, provide guidance on AI projects\",\n" +
+                    "      \"Evaluate AI algorithms for ethical considerations\",\n" +
+                    "      \"Collaborate with AI development teams on responsible AI practices\"\n" +
+                    "    ],\n" +
                     "    \"description\": \"Shape the ethical considerations of AI technology in our organization.\"\n" +
                     "  }\n" +
                     "]";
