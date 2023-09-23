@@ -10,6 +10,7 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Job {
+    private int id;
     private String job_title;
     private String job_employer;
     private String job_publisher;
